@@ -7,10 +7,9 @@ const Layout = () => {
   return (
     <div className=''>
         <div>
-
-        <Nav/>
-        <Description/>
-        <Delimeter/>
+          <Nav/>
+          <Description/>
+          <Delimeter/>
         </div>
     </div>
   )

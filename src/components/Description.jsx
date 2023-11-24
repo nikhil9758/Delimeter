@@ -7,11 +7,11 @@ const Description = () => {
             Free Comma Separating Tool
         </div>
         <p>
-Do you often need to take a spreadsheet of data and convert to a comma-delimited list?
+            Do you often need to take a spreadsheet of data and convert to a comma-delimited list?
 
-Be it for taking a list of zip codes or names to make an SQL query, or to take data from a CSV and be able to paste into an array. At delim.co we make that just a little easier.
+            Be it for taking a list of zip codes or names to make an SQL query, or to take data from a CSV and be able to paste into an array. At delim.co we make that just a little easier.
 
-Enter your non-delimited data on the left, hit the button, and boom, separated data on the right. Special configs are below if the defaults aren't what you need!
+            Enter your non-delimited data on the left, hit the button, and boom, separated data on the right. Special configs are below if the defaults aren't what you need!
         </p>
     </div>
   )
